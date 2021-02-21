@@ -18,7 +18,7 @@ section {
     padding: 15px;
     width: 400px;
     margin: auto;
-    box-shadow: 10px 10px 10px rgb(43, 43, 43);
+    /* box-shadow: 10px 10px 10px rgb(0, 102, 255); */
 }
 
 img {
@@ -32,3 +32,9 @@ footer {
     text-align: center;
 }
 
+#msg {
+    padding-bottom: 10px;
+}
+#data {
+    padding-bottom: 10px;
+}
